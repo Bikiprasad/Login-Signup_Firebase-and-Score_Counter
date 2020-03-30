@@ -8,6 +8,7 @@ This Project mainly focuses on the Login and Signup Functionality in android usi
 <img src="https://github.com/Bikiprasad/Score_Counter_and_Login-Signup_Firebase/blob/master/signup.jpg" height="500px" width="280"/>&nbsp
 <img src="https://github.com/Bikiprasad/Score_Counter_and_Login-Signup_Firebase/blob/master/forgetpassword.jpg" height="500px" width="280"/>
 </div>
+<hr width="100%" height="2" color="red" >
 <h3>Score Counter For two teams(Team A & Team B)</h3>
 <hr width="100%" height="2" color="red" >
 <div class="col-md-4">
@@ -15,3 +16,4 @@ This Project mainly focuses on the Login and Signup Functionality in android usi
 <img src="https://github.com/Bikiprasad/Score_Counter_and_Login-Signup_Firebase/blob/master/matchfinished.jpg" height="500px" width="280"/>&nbsp
 <img src="https://github.com/Bikiprasad/Score_Counter_and_Login-Signup_Firebase/blob/master/win.jpg" height="500px" width="280"/>
 </div>
+<hr width="100%" height="2" color="red" >
