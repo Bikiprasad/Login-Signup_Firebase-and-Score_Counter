@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#574CC9</color>
+    <color name="colorPrimaryDark">#574CC9</color>
+    <color name="colorAccent">#774E77</color>
+    <color name="buutonscolour">#574CC9</color>
+    <color name="white">#FFFFFF</color>
+    <color name="bordercolor">#66707070</color>
+    <color name="textcolorprimary">#774E77</color>
+    <color name="hinttextcolor">#99774E77</color>
+</resources>

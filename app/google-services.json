@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "495794487776",
+    "firebase_url": "https://loginandsignup-fc476.firebaseio.com",
+    "project_id": "loginandsignup-fc476",
+    "storage_bucket": "loginandsignup-fc476.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:495794487776:android:9583cbce3429477d072b85",
+        "android_client_info": {
+          "package_name": "com.example.loginandsignup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "495794487776-oten73lo7qrgqfqef9qb9p21d3dlcsuu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.loginandsignup",
+            "certificate_hash": "56abb1377ff36f87a994c04c1c3dfbe15f84187f"
+          }
+        },
+        {
+          "client_id": "495794487776-2ukughsr2bg8g5fa4obkjtsd2ade4fnp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXTSh32CKourd8GNshTIcWZbH0AY3PgUA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "495794487776-2ukughsr2bg8g5fa4obkjtsd2ade4fnp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
