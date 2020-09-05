@@ -1,4 +1,4 @@
-# Score_Counter_and_Login_and_Signup_Firebase
+<img src="https://github.com/Bikiprasad/Score_Counter_and_Login-Signup_Firebase/blob/master/Frame 2.png"/>
 This Project mainly focuses on the Login and Signup Functionality in android using the Firebase email Authentication services. Also this app has a score counter for two teams with counter updater for both the teams and also Clear and Finish Buttons.
 <h3>Login,Signup and Forget Password Activities Designs</h3>
 <hr width="100%" height="2" color="red" >
